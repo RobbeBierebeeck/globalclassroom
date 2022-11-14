@@ -26,19 +26,9 @@
                 <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
                 <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
                 <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="6" aria-label="Slide 7"></button>
-                <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="7" aria-label="Slide 8"></button>
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="./assets/moodboard.jpeg" alt="Our Moodboard" width="100%" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
-
-                    <div class="container">
-                        <div class="carousel-caption">
-                            <p><a target="_blank" rel="noopener noreferrer" class="btn btn-lg btn-primary" href="./assets/moodboard.jpeg">See our moodboard</a></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
                     <img src="./assets/Moodboard_Alan.jpeg" alt="Our Moodboard" width="100%" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
 
                     <div class="container">
@@ -120,91 +110,138 @@
 
 
         <div class="container marketing">
-            <h3 class="text-center m-5">
-                This is the ideal city
-                <small class="text-muted">- How we like it</small>
-            </h3>
-            <div class="row">
+            <h3 class="text-center">What's a city?</h3>
+            <div class="text-center d-flex justify-content-center">
+                <p class="m-5 w-50">Cities are an organic entity that have their own identity and the capacity to respond to the demands and needs of their inhabitants. They are constellations of interwoven connections: people, materials, technologies and daily life. </p>
+            </div>
+
+            <div class="row pb-5">
                 <div class="col-lg-4">
                     <svg class="bd-placeholder-img rounded-circle" width="100" height="100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Compact</title>
-                        <rect width="100%" height="100%" fill="#8064A2" />
+                        <title>Sociological perspective</title>
+                        <rect width="100%" height="100%" fill="#F2D5F8" />
                     </svg>
 
-                    <h2 class="fw-normal">Compact</h2>
-                    <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
+                    <h2 class="fw-normal">Sociological perspective</h2>
+                    <p>A relatively large, dense, and permanent settlement of socially heterogeneous individuals” - Louis Wirth</p>
                 </div>
                 <div class="col-lg-4">
                     <svg class="bd-placeholder-img rounded-circle" width="100" height="100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Urban Space Appropiation</title>
-                        <rect width="100%" height="100%" fill="#8064A2" />
+                        <title>Economics perspective</title>
+                        <rect width="100%" height="100%" fill="#E09CE8" />
                     </svg>
 
-                    <h2 class="fw-normal">Urban Space Appropiation</h2>
-                    <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
+                    <h2 class="fw-normal">Economics perspective</h2>
+                    <p>Space that accomplishes a particular economic function - Alfred Marshall & Edward Glaeser</p>
                 </div>
                 <div class="col-lg-4">
                     <svg class="bd-placeholder-img rounded-circle" width="100" height="100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Smart City</title>
-                        <rect width="100%" height="100%" fill="#8064A2" />
+                        <title>Right of the city</title>
+                        <rect width="100%" height="100%" fill="#F2D5F8" />
                     </svg>
 
-                    <h2 class="fw-normal">Smart City</h2>
-                    <p>And lastly this, the third column of representative placeholder content.</p>
+                    <h2 class="fw-normal">Right of the city</h2>
+                    <p>The right of every person to create cities that meet human needs</p>
                 </div>
             </div>
 
-            <div class="row">
-                <div class="col-lg-4">
-                    <svg class="bd-placeholder-img rounded-circle" width="100" height="100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Accesible</title>
+            <h3 class="text-center mt-5">What are public spaces?</h3>
+            <div class="text-center d-flex justify-content-center">
+                <p class="m-5 w-50">According to the United Nations, public spaces are “multi-functional areas for social interaction, economic exchange and cultural expression among a wide diversity of people”, in other words, they are areas owned by the public and meant for them. </p>
+            </div>
+            <h4 class="text-center mt-5 mb-5">Public spaces are divided into four categories: </h4>
+
+            <div class="row pb-5">
+                <div class="col d-flex flex-column align-items-center">
+                    <svg class="bd-placeholder-img rounded-circle" width="60" height="60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Streets</title>
                         <rect width="100%" height="100%" fill="#8064A2" />
                     </svg>
 
-                    <h2 class="fw-normal">Accesible</h2>
-                    <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
+                    <h2 class="text-center fw-normal">Streets</h2>
                 </div>
-                <div class="col-lg-4">
-                    <svg class="bd-placeholder-img rounded-circle" width="100" height="100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Major Walking Routes</title>
-                        <rect width="100%" height="100%" fill="#8064A2" />
+                <div class="col d-flex flex-column align-items-center">
+                    <svg class="bd-placeholder-img rounded-circle" width="60" height="60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Open public areas</title>
+                        <rect width="100%" height="100%" fill="#E09CE8" />
                     </svg>
 
-                    <h2 class="fw-normal">Major Walking Routes</h2>
-                    <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
+                    <h2 class="text-center fw-normal">Open public areas</h2>
                 </div>
-                <div class="col-lg-4">
-                    <svg class="bd-placeholder-img rounded-circle" width="100" height="100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Vertical Gardens</title>
-                        <rect width="100%" height="100%" fill="#8064A2" />
+                <div class="col d-flex flex-column align-items-center">
+                    <svg class="bd-placeholder-img rounded-circle" width="60" height="60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Public facilities</title>
+                        <rect width="100%" height="100%" fill="#EFCBF3" />
                     </svg>
 
-                    <h2 class="fw-normal">Vertical Gardens</h2>
-                    <p>And lastly this, the third column of representative placeholder content.</p>
+                    <h2 class="text-center fw-normal">Public facilities</h2>
+                </div>
+                <div class="col d-flex flex-column align-items-center">
+                    <svg class="bd-placeholder-img rounded-circle" width="60" height="60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Markets</title>
+                        <rect width="100%" height="100%" fill="#FAEEFC" />
+                    </svg>
+
+                    <h2 class="text-center fw-normal">Markets</h2>
                 </div>
             </div>
 
-            <div class="row">
+            <h3 class="text-center mt-5">Analizing the city <small class="text-muted">- according to Kevin Lynch´s theory “The image of a city”</small></h3>
+            <div class="text-center d-flex justify-content-center">
+                <p class="m-5 w-50">To analize the city, we need to understand it as a sensory and visual phenomenon. People and perception as the way in which the individuals relate to the environment.</p>
+            </div>
+            <h4 class="text-center mt-5 mb-5">The urban structure is composed of 5 elements</h4>
+
+            <div class="row pb-5">
                 <div class="col-lg-4">
                     <svg class="bd-placeholder-img rounded-circle" width="100" height="100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Orthogonal Urban Layout</title>
-                        <rect width="100%" height="100%" fill="#8064A2" />
+                        <title>Paths</title>
+                        <rect width="100%" height="100%" fill="#F2D5F8" />
                     </svg>
 
-                    <h2 class="fw-normal">Orthogonal Urban Layout</h2>
-                    <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
+                    <h2 class="fw-normal">Paths</h2>
+                    <p>Channels along the city which the observer moves. They may be streets, walkways, transit lines, canals or railroads. They are the dominant element in the urban image</p>
                 </div>
                 <div class="col-lg-4">
                     <svg class="bd-placeholder-img rounded-circle" width="100" height="100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Good Public Transportation</title>
-                        <rect width="100%" height="100%" fill="#8064A2" />
+                        <title>Edges</title>
+                        <rect width="100%" height="100%" fill="#E09CE8" />
                     </svg>
 
-                    <h2 class="fw-normal">Good Public Transportation</h2>
-                    <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
+                    <h2 class="fw-normal">Edges</h2>
+                    <p>Linear elements that form boundaries between areas, they can be either real or perceived. For example; shores, railway cuts, mountains or walls.</p>
+                </div>
+                <div class="col-lg-4">
+                    <svg class="bd-placeholder-img rounded-circle" width="100" height="100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Nodes</title>
+                        <rect width="100%" height="100%" fill="#F2D5F8" />
+                    </svg>
+
+                    <h2 class="fw-normal">Nodes</h2>
+                    <p>Strategic spots in a city which an observer can enter, be directed to many destinations or in which it gathers places.</p>
                 </div>
             </div>
 
+            <div class="row pb-5">
+                <div class="col-lg-4">
+                    <svg class="bd-placeholder-img rounded-circle" width="100" height="100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Districts</title>
+                        <rect width="100%" height="100%" fill="#E09CE8" />
+                    </svg>
+
+                    <h2 class="fw-normal">Districts</h2>
+                    <p>Medium to large areas of the city that share the same characteristics: style, spatial form, colors or texture. The observer is identified by being in them or by entering them.</p>
+                </div>
+                <div class="col-lg-4">
+                    <svg class="bd-placeholder-img rounded-circle" width="100" height="100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Landmarks</title>
+                        <rect width="100%" height="100%" fill="#F2D5F8" />
+                    </svg>
+
+                    <h2 class="fw-normal">Landmarks</h2>
+                    <p>Keys of identity and meaning within the city, that are recognizable from near or distance, assimilated even if they are not visible. For example, buildings, stores, monuments, mountains or public art. </p>
+                </div>
+            </div>
 
             <!-- START THE FEATURETTES -->
 

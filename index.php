@@ -20,103 +20,126 @@
     <main>
 
         <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-indicators">
-                <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-            </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <rect width="100%" height="100%" fill="#777" />
-                    </svg>
-
-                    <div class="container">
-                        <div class="carousel-caption text-start">
-                            <h1>Example headline.</h1>
-                            <p>Some representative placeholder content for the first slide of the carousel.</p>
-                            <p><a class="btn btn-lg btn-primary" href="#">Sign up today</a></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <rect width="100%" height="100%" fill="#777" />
-                    </svg>
-
+                    <img src="./assets/moodboard.jpeg" alt="Our Moodboard" width="100%" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
                     <div class="container">
                         <div class="carousel-caption">
-                            <h1>Another example headline.</h1>
-                            <p>Some representative placeholder content for the second slide of the carousel.</p>
-                            <p><a class="btn btn-lg btn-primary" href="#">Learn more</a></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <rect width="100%" height="100%" fill="#777" />
-                    </svg>
-
-                    <div class="container">
-                        <div class="carousel-caption text-end">
-                            <h1>One more for good measure.</h1>
-                            <p>Some representative placeholder content for the third slide of this carousel.</p>
-                            <p><a class="btn btn-lg btn-primary" href="#">Browse gallery</a></p>
+                            <p><a target="_blank" rel="noopener noreferrer" class="btn btn-lg btn-primary" href="./assets/moodboard.jpeg">See our moodboard</a></p>
                         </div>
                     </div>
                 </div>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
-            </button>
         </div>
 
 
-        <!-- Marketing messaging and featurettes
-        ================================================== -->
-        <!-- Wrap the rest of the page in another container to center all the content. -->
-
         <div class="container marketing">
-
-            <!-- Three columns of text below the carousel -->
-            <div class="row">
-                <div class="col-lg-4">
-                    <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text>
+            <h3 class="text-center m-5">
+                This is the ideal city
+                <small class="text-muted">- which brings together 12 concepts</small>
+            </h3>
+            <div class="row pb-5">
+                <div class="col d-flex flex-column align-items-center">
+                    <svg class="bd-placeholder-img rounded-circle" width="60" height="60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Compact</title>
+                        <rect width="100%" height="100%" fill="#8064A2" />
                     </svg>
 
-                    <h2 class="fw-normal">Heading</h2>
-                    <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
-                    <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
-                </div><!-- /.col-lg-4 -->
-                <div class="col-lg-4">
-                    <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text>
+                    <h2 class="text-center fw-normal">Compact</h2>
+                </div>
+                <div class="col d-flex flex-column align-items-center">
+                    <svg class="bd-placeholder-img rounded-circle" width="60" height="60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>With identity</title>
+                        <rect width="100%" height="100%" fill="#E09CE8" />
                     </svg>
 
-                    <h2 class="fw-normal">Heading</h2>
-                    <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
-                    <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
-                </div><!-- /.col-lg-4 -->
-                <div class="col-lg-4">
-                    <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text>
+                    <h2 class="text-center fw-normal">With identity</h2>
+                </div>
+                <div class="col d-flex flex-column align-items-center">
+                    <svg class="bd-placeholder-img rounded-circle" width="60" height="60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Smart</title>
+                        <rect width="100%" height="100%" fill="#EFCBF3" />
                     </svg>
 
-                    <h2 class="fw-normal">Heading</h2>
-                    <p>And lastly this, the third column of representative placeholder content.</p>
-                    <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
-                </div><!-- /.col-lg-4 -->
-            </div><!-- /.row -->
+                    <h2 class="text-center fw-normal">Smart</h2>
+                </div>
+                <div class="col d-flex flex-column align-items-center">
+                    <svg class="bd-placeholder-img rounded-circle" width="60" height="60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Accesible</title>
+                        <rect width="100%" height="100%" fill="#FAEEFC" />
+                    </svg>
 
+                    <h2 class="text-center fw-normal">Accesible</h2>
+                </div>
+            </div>
+            <div class="row pb-5">
+                <div class="col d-flex flex-column align-items-center">
+                    <svg class="bd-placeholder-img rounded-circle" width="60" height="60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Sustainable</title>
+                        <rect width="100%" height="100%" fill="#FAEEFC" />
+                    </svg>
+
+                    <h2 class="text-center fw-normal">Sustainable</h2>
+                </div>
+                <div class="col d-flex flex-column align-items-center">
+                    <svg class="bd-placeholder-img rounded-circle" width="60" height="60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Green</title>
+                        <rect width="100%" height="100%" fill="#EFCBF3" />
+                    </svg>
+
+                    <h2 class="text-center fw-normal">Green</h2>
+                </div>
+                <div class="col d-flex flex-column align-items-center">
+                    <svg class="bd-placeholder-img rounded-circle" width="60" height="60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>High Quality Public Transportation</title>
+                        <rect width="100%" height="100%" fill="#E09CE8" />
+                    </svg>
+
+                    <h2 class="text-center fw-normal">High Quality Public Transportation</h2>
+                </div>
+                <div class="col d-flex flex-column align-items-center">
+                    <svg class="bd-placeholder-img rounded-circle" width="60" height="60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Permeable</title>
+                        <rect width="100%" height="100%" fill="#8064A2" />
+                    </svg>
+
+                    <h2 class="text-center fw-normal">Permeable</h2>
+                </div>
+            </div>
+            <div class="row pb-5">
+                <div class="col d-flex flex-column align-items-center">
+                    <svg class="bd-placeholder-img rounded-circle" width="60" height="60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Walkable</title>
+                        <rect width="100%" height="100%" fill="#8064A2" />
+                    </svg>
+
+                    <h2 class="text-center fw-normal">Walkable</h2>
+                </div>
+                <div class="col d-flex flex-column align-items-center">
+                    <svg class="bd-placeholder-img rounded-circle" width="60" height="60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Urban Space Appropriation</title>
+                        <rect width="100%" height="100%" fill="#E09CE8" />
+                    </svg>
+
+                    <h2 class="text-center fw-normal">Urban Space Appropriation</h2>
+                </div>
+                <div class="col d-flex flex-column align-items-center">
+                    <svg class="bd-placeholder-img rounded-circle" width="60" height="60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Citizen involvement</title>
+                        <rect width="100%" height="100%" fill="#EFCBF3" />
+                    </svg>
+
+                    <h2 class="text-center fw-normal">Citizen involvement</h2>
+                </div>
+                <div class="col d-flex flex-column align-items-center">
+                    <svg class="bd-placeholder-img rounded-circle" width="60" height="60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Transparency in the decision making</title>
+                        <rect width="100%" height="100%" fill="#FAEEFC" />
+                    </svg>
+
+                    <h2 class="text-center fw-normal">Transparency in the decision making</h2>
+                </div>
+            </div>
 
             <!-- START THE FEATURETTES -->
 
@@ -124,47 +147,12 @@
 
             <div class="row featurette">
                 <div class="col-md-7">
-                    <h2 class="featurette-heading fw-normal lh-1">First featurette heading. <span class="text-muted">It’ll blow your mind.</span></h2>
-                    <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
+                    <h2 class="featurette-heading fw-normal lh-1">Defining our dream city</h2>
+                    <p class="lead">Since we all have a different perspective on what makes a city a good or ideal one to live in. Each of the team members was tasked with creating a moodboard in the format of a collage of what their dream city consisted of. The idea of ​​this activity was that by presenting the different elements or concepts of the boards we were concluding in the ideal city of all. </p>
+                    <p><a href="./city.php" class="btn btn-secondary">See personal moodboards</a></p>
                 </div>
                 <div class="col-md-5">
-                    <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="#eee" /><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text>
-                    </svg>
-
-                </div>
-            </div>
-
-            <hr class="featurette-divider">
-
-            <div class="row featurette">
-                <div class="col-md-7 order-md-2">
-                    <h2 class="featurette-heading fw-normal lh-1">Oh yeah, it’s that good. <span class="text-muted">See for yourself.</span></h2>
-                    <p class="lead">Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
-                </div>
-                <div class="col-md-5 order-md-1">
-                    <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="#eee" /><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text>
-                    </svg>
-
-                </div>
-            </div>
-
-            <hr class="featurette-divider">
-
-            <div class="row featurette">
-                <div class="col-md-7">
-                    <h2 class="featurette-heading fw-normal lh-1">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-                    <p class="lead">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
-                </div>
-                <div class="col-md-5">
-                    <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="#eee" /><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text>
-                    </svg>
-
+                    <img src="./assets/defining_our_dream_city.jpg" alt="Defining our dream city" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
                 </div>
             </div>
 
@@ -174,7 +162,7 @@
         </div>
 
         <footer class="container">
-            <p class="float-end"><a href="#">Back to top</a></p>
+            <p class="float-end"><a href="#" class="btn btn-primary">Back to top</a></p>
             <p>&copy; 2022 Global CLassroom &middot; Nicole &middot; Alan &middot; Macarena &middot; Erick &middot; Robbe &middot; Ismaïl &middot; William &middot; Seppe</p>
         </footer>
 
