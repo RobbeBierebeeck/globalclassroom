@@ -26,6 +26,7 @@
                 <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
                 <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
                 <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="6" aria-label="Slide 7"></button>
+                <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="7" aria-label="Slide 8"></button>
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -94,6 +95,16 @@
                     <div class="container">
                         <div class="carousel-caption">
                             <p><a target="_blank" rel="noopener noreferrer" class="btn btn-lg btn-primary" href="./assets/Moodboard_William.jpeg">See William's moodboard</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="./assets/Moodboard_Erick.png" alt="Our Moodboard" width="100%" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
+
+
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <p><a target="_blank" rel="noopener noreferrer" class="btn btn-lg btn-primary" href="./assets/Moodboard_Erick.png">See Erick's moodboard</a></p>
                         </div>
                     </div>
                 </div>

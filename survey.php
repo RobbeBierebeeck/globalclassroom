@@ -30,10 +30,10 @@
         <div class="container marketing">
             <h3 class="text-center m-5">
                 Survey
-                <small class="text-muted">- Not yet build</small>
+                <small class="text-muted">- Your dream city</small>
             </h3>
             <div class="text-center d-flex justify-content-center">
-                <p><a target="_blank" rel="noopener noreferrer" class="text-center btn btn-lg btn-primary" href="#">Fill in survey</a></p>
+                <p><a target="_blank" rel="noopener noreferrer" class="text-center btn btn-lg btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdPXn9cs2H9ozVRwWkLRD-I8kbb_XjrumQ_f8oX0aBurwV7hw/viewform?usp=sf_link">Fill in survey</a></p>
             </div>
 
 

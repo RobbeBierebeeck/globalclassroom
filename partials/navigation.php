@@ -28,6 +28,13 @@
                                                 echo "active";
                                             } ?>" href="./survey.php"">Survey</a>
                 </li>
+                <li class=" nav-item">
+                            <a class="nav-link <?php if ($pageName == "team.php") {
+                                                    echo "active";
+                                                } ?>" href="./team.php"">
+                            Team
+                    </a>
+                </li>
             </ul>
         </div>
     </div>
