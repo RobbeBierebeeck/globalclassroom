@@ -24,16 +24,16 @@
                                         } ?>" href="./code.php"">Code</a>
                 </li>
                 <li class=" nav-item">
-                        <a class="nav-link <?php if ($pageName == "survey.php") {
+                        <a class="nav-link <?php if ($pageName == "team.php") {
                                                 echo "active";
-                                            } ?>" href="./survey.php"">Survey</a>
-                </li>
-                <li class=" nav-item">
-                            <a class="nav-link <?php if ($pageName == "team.php") {
-                                                    echo "active";
-                                                } ?>" href="./team.php"">
+                                            } ?>" href="./team.php"">
                             Team
                     </a>
+                </li>
+                <li class=" nav-item">
+                            <a class="nav-link <?php if ($pageName == "survey.php") {
+                                                    echo "active";
+                                                } ?>" href="./survey.php"">Survey</a>
                 </li>
             </ul>
         </div>

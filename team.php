@@ -45,9 +45,9 @@
                     <p>I am 22 years old, I live in Monterrey, Mexico and I am studying Architecture at Tec de Monterrey. I love architecture, which implies from the theoretical foundations, the history of how it was progressing, the great geniuses like Frank Lloyd W., Le Corbusier, Mies Van Der Rohe, among others. <br> As our work involves people's lives to such a degree of deciding how they will live at home or how their experience at work will be. I am currently learning to code looking to have as many tools that can serve me to improve my career.</p>
                 </div>
                 <div class="col-lg-4">
-                    <img class="bd-placeholder-img rounded-circle" width="150" height="150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="./assets/temp_profile.jpg" alt="Profile Picture">
-                    <h2 class="fw-normal">Nicole</h2>
-                    <p>/</p>
+                    <img class="bd-placeholder-img rounded-circle" width="150" height="150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="./assets/nicole.jpg" alt="Profile Picture">
+                    <h2 class="fw-normal">Nicole de la Torre</h2>
+                    <p>I am 22 years old. I live in Monterrey, Mexico, and I am studying architecture at Tec de Monterrey. What I like the most about architecture is learning about how we can design cities that contribute to improving living conditions and quality of life. </p>
                 </div>
                 <div class="col-lg-4">
                     <img class="bd-placeholder-img rounded-circle" width="150" height="150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="./assets/robbe.png" alt="Profile Picture">
@@ -59,12 +59,12 @@
                 <div class="col-lg-4">
                     <img class="bd-placeholder-img rounded-circle" width="150" height="150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="./assets/temp_profile.jpg" alt="Profile Picture">
                     <h2 class="fw-normal">William Hazevoets</h2>
-                    <p>/</p>
+                    <p>I am 20 years old, I live in Puurs, Belgium and I am studying Interactive Multimedia Design at Thomas More. In my spare time I love to game and educate myself about ux/ui design.</p>
                 </div>
                 <div class="col-lg-4">
                     <img class="bd-placeholder-img rounded-circle" width="150" height="150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="./assets/temp_profile.jpg" alt="Profile Picture">
                     <h2 class="fw-normal">Ismaïl El Ghamri</h2>
-                    <p>/</p>
+                    <p>I am a student at thomas more mechelen, determined to become a creative developer and thrive in the professional world. throughout my school career, i have managed to develop a solid amount of skills to turn my ideas and designs into reality.</p>
                 </div>
             </div>
 
