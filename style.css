@@ -5,7 +5,7 @@
 body {
     padding-top: 3rem;
     padding-bottom: 3rem;
-    color: #5a5a5a;
+    font-family: 'Raleway', sans-serif;
 }
 
 .btn-primary,
@@ -87,6 +87,21 @@ body {
 }
 
 /* rtl:end:remove */
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 5rem;
+    font-weight: bold;
+}
+
+.carousel-indicators button{
+    border: 1px solid black !important;
+}
+.fw-normal{
+    margin-top: 2rem;
+}
 
 /* RESPONSIVE CSS
   -------------------------------------------------- */

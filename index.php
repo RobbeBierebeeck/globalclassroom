@@ -9,6 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <?php include_once(__DIR__ . '/style.php') ?>
     <title>Global Classroom</title>
+   
 </head>
 
 <body>

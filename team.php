@@ -62,7 +62,7 @@
                     <p>I am 20 years old, I live in Puurs, Belgium and I am studying Interactive Multimedia Design at Thomas More. In my spare time I love to game and educate myself about ux/ui design.</p>
                 </div>
                 <div class="col-lg-4">
-                    <img class="bd-placeholder-img rounded-circle" width="150" height="150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="./assets/temp_profile.jpg" alt="Profile Picture">
+                    <img class="bd-placeholder-img rounded-circle" width="150" height="150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 100x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="./assets/ismail.jpg" alt="Profile Picture">
                     <h2 class="fw-normal">Ismaïl El Ghamri</h2>
                     <p>I am a student at thomas more mechelen, determined to become a creative developer and thrive in the professional world. throughout my school career, i have managed to develop a solid amount of skills to turn my ideas and designs into reality.</p>
                 </div>
